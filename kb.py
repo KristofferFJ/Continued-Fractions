@@ -3,7 +3,7 @@ from numpy import linalg
 from time import sleep
 import math
 
-#Lavet på baggrund af algoritmen, der er beskrevet i artiklen:
+#Made with the algorithm described in the paper:
 #Algebraic computations with continued fractions af Pierre Liardet og Pierre Stambul i J. Number Theory 73 (1998), no. 1, s. 92-121.
 
 #Interessante konstanter
