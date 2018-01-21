@@ -15,6 +15,7 @@ x =[1,1,3,2,1,1,6,1,28]
 #x = [1,1,3,2,1,1,6,1,28]
 #Hvis vi vil vælge selv:
 #x = [int(y) for y in input("Skriv kædebrøk ").split()]
+print ("Hej Bobby")
 
 print ("x ser ud på formen "+str(x))
 x_squared = []
